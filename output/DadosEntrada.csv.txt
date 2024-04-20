@@ -1,6 +1,6 @@
 Nome,Nota1,Nota2
 Ana Silva,8.5,9.2
-Pedro Santos,(987) 654-3210,Medicina,7.8,8.5
+Pedro Santos,7.8,8.5
 Maria Oliveira,(555) 123-4567,Direito,9.0,9.3
 João Pereira,(222) 789-4561,Arquitetura,6.5,7.2
 Sofia Alves,(333) 567-8901,Psicologia,8.2,8.8

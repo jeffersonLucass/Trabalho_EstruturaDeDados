@@ -58,7 +58,7 @@ int main() {
     fclose(arquivoDeEntrada);
     fclose(arquivoDeSaida);
 
-    printf("Processo concluído. Verifique o arquivo SituacaoFinal.csv.\n");
+    printf("Processo concluido. Verifique o arquivo SituacaoFinal.csv.\n");
 
     return 0;
 }
